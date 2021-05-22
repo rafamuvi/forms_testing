@@ -1,14 +1,14 @@
 {
   "name": "forms_testing",
   "version": "1.0.0",
-  "description": "",
+  "description": "Simple integration with cypress and cucumber to validate an user form",
   "main": "index.js",
   "scripts": {
     "cypress:open": "cypress open",
     "cypress:run": "cypress run"
   },
-  "keywords": [],
-  "author": "",
+  "keywords": ["cypress", "cucumber", "user_form"],
+  "author": "Rafael Muniz Vieira",
   "license": "ISC",
   "devDependencies": {
     "cypress": "^7.3.0",
